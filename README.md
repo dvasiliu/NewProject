@@ -1,7 +1,3 @@
----
-Title: A Title
-my_variable: input.html
----
 
 # NewProject
 
